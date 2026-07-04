@@ -32,3 +32,5 @@
 ---
 
 *Full resume: [resume.html](/resume.html)*
+
+<![alt y3ll0wh4t](assets/yellowhat.png) 
