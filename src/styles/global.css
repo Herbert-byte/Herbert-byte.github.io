@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'Iosevka';
-  src: url(/assets/fonts/IosevkaNerdFont-Regular.ttf);
+  src: url(/assets/fonts/IosevkaNerdFont-Regular.ttf) format('truetype');
   display: swap;
 }
 
