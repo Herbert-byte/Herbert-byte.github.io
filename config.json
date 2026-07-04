@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/Herbert-byte/Herbert-byte/main/README.md",
+  "title": "y3ll0w!portfolio",
+  "name": "y3hll0wh4t_ (Herbert Kumar)",
+  "ascii": "y3ll0w",
+  "social": {
+    "github": "Herbert-byte",
+    "linkedin": ""
+  },
+  "email": "y3ll0wh4t@moon.org",
+  "ps1_hostname": "y3ll0w",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/Herbert-byte/portfolio",
+  "resume_url": "https://raw.githubusercontent.com/Herbert-byte/Herbert-byte/main/README.md",
+  "donate_urls": {
+    "paypal": "",
+    "patreon": ""
+  },
+  "colors": {
+    "light": {
+      "background": "#F7EEE2",
+      "foreground": "#423939",
+      "yellow": "#E39C45",
+      "green": "#768F80",
+      "gray": "#9C8181",
+      "blue": "#756D94",
+      "red": "#CF223E"
+    },
+    "dark": {
+      "background": "#1A1515",
+      "foreground": "#DCC9BC",
+      "yellow": "#E39C45",
+      "green": "#768F80",
+      "gray": "#9C8181",
+      "blue": "#756D94",
+      "red": "#CF223E"
+    }
+  }
+}
