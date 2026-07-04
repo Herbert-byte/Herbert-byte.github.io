@@ -33,4 +33,4 @@
 
 *Full resume: [resume.html](/resume.html)*
 
-<![alt y3ll0wh4t](assets/yellowhat.png) 
+<img src="https://raw.githubusercontent.com/Herbert-byte/Herbert-byte.github.io/main/assets/yellowhat.png" alt="y3ll0wh4t" width="200"> 
